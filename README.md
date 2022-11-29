@@ -1,5 +1,16 @@
 # MyST - This is my version of [st](https://st.suckless.org/).
 
+## Current Patches
+
+- [alpha](https://st.suckless.org/patches/alpha/)
+- [font2](https://st.suckless.org/patches/font2/)
+
+
+## Wanted Patches
+
+- Currently None
+
+
 # Original README
 
 ## st - simple terminal
