@@ -1,6 +1,8 @@
 <!--# MyST - This is my version of [st](https://st.suckless.org/).-->
 <div class="aside">
-<h2>MyST - This is my version of <a href="https://st.suckless.org/"> st <a>.</h2>
+    <title>MyST - This is my version of
+        <a href="https://st.suckless.org/"> st <a>.
+    </title>
 </div>
 
 
