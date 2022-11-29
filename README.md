@@ -1,3 +1,7 @@
+# MyST - This is my version of [st](https://st.suckless.org/).
+
+# Original README
+
 ## st - simple terminal
 
 st is a simple terminal emulator for X which sucks less.
